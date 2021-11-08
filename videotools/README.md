@@ -13,7 +13,11 @@ Enjoy!
 
 Prof. Dr. Paulo R. P. Santiago - 11-06-2021
 
+<<<<<<< HEAD:videotools/README.md
 * Link for softwares \
+=======
+* Link for softwares: 
+>>>>>>> 55061744fbc6fff9d02010db539a2de14da8214f:videotools/videotools-main/README.md
 https://www.ffmpeg.org/download.html \
 https://git-scm.com/downloads \
 https://mediaarea.net/en/MediaInfo \
