@@ -13,7 +13,7 @@ Enjoy!
 
 Prof. Dr. Paulo R. P. Santiago - 11-06-2021
 
-* Link for softwares
+* Link for softwares \
 https://www.ffmpeg.org/download.html \
 https://git-scm.com/downloads \
 https://mediaarea.net/en/MediaInfo \
