@@ -1,4 +1,5 @@
 # SBB_videogrammetry
+## Todos podem contribuir! Eu vou melhorando e ajudando aqui sempre que puder! <br/>
 ![alt text](https://github.com/paulopreto/SBB_videogrammetry/blob/main/app_screenshot.png?raw=true)<br/>
 
 * videotools:<br/>
