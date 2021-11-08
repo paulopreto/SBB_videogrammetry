@@ -1,1 +1,1 @@
-Para rodar este exemplo digite: ptyhon getpixel.py
+# Para rodar este exemplo digite: ptyhon getpixel.py
