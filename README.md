@@ -1,3 +1,10 @@
 # SBB_videogrammetry
-![alt text](https://github.com/paulopreto/SBB_videogrammetry/blob/main/app_screenshot.png?raw=true)
-Videogrammetry technique for analys in biomechanics
+![alt text](https://github.com/paulopreto/SBB_videogrammetry/blob/main/app_screenshot.png?raw=true)<br/>
+
+* videotools:<br/>
+1-  Code package to easy and powerful video editing video;<br/>
+2 - 
+<br/>
+* Videogrammetry technique for analys in biomechanics:<br/>
+1 - Marking with the mouse the screen coordinates in pixel;<br/>
+2 - 
