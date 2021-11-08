@@ -3,8 +3,8 @@
 
 * videotools:<br/>
 1-  Code package to easy and powerful video editing video;<br/>
-2 - 
-<br/>
+2 - ???
+
 * Videogrammetry technique for analys in biomechanics:<br/>
 1 - Marking with the mouse the screen coordinates in pixel;<br/>
-2 - 
+2 - ???
