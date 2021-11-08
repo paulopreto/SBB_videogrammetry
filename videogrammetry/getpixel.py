@@ -10,7 +10,7 @@ import glob
 from iteration_utilities import deepflatten
 
 dir_atual = os.getcwd()
-img_dir = '/snap_calib/'
+img_dir = '/images/'
 
 try:
     dir_images = dir_atual + img_dir
